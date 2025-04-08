@@ -1,5 +1,5 @@
 function mostraMensagem() {
 
-    alert("Site funcionando! Publicado com sucesso.");
+    alert("Site do Super Grêmio esta funcionando! Publicado com sucesso.");
     
     }
